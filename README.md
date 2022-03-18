@@ -3,12 +3,12 @@
 - 🌱 Estudando HTML/CSS, GITHUB e Python
 - 📫 Me contate pelo email: luanaraizer99@gmail.com
 - 😄 Ela/dela
-- ⚡ estou evoluindo pra ser Full Stack
+- ⚡ Estou evoluindo pra ser Full Stack
 
 <div align="center">
   <a href="https://github.com/LuanaRaizer99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanaRaizer99&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaRaizer99&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuanaRaizer99&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaRaizer99&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
