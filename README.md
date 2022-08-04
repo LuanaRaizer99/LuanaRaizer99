@@ -1,8 +1,7 @@
-### Olá! Eu sou a Luana Raizer
+### Olá! Eu sou a Luana Raizer.
 
-- 🌱 Estudando HTML/CSS, GITHUB, Python e JAVA
+- 🌱 Estudando HTML/CSS, GITHUB, Python e Java
 - 📫 Me contate pelo email: luanaraizer99@gmail.com
-- 😄 Ela/dela
 - ⚡ Estou evoluindo pra ser Full Stack
 
 <div align="center">
