@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Luana Raizer.
 
-- 🌱 Estudando HTML/CSS, GITHUB, Python.
+- 🌱 Estudando Python, Java, SQL e C.
 - 📫 Me contate pelo email: luanaraizer99@gmail.com
-- ⚡ Estou evoluindo pra ser Full Stack
+- ⚡ Estou evoluindo pra ser uma Profissional em Dados
 
 <div align="center">
   <a href="https://github.com/LuanaRaizer99">
