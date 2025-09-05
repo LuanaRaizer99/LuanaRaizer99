@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Luana Raizer.
 
-- 🌱 Estudando Python, Java, SQL e C.
+- 🌱 Estudando Python, Java, SQL, JavaScript, DAX e C.
 - 📫 Me contate pelo email: luanaraizer99@gmail.com
 - ⚡ Estou evoluindo pra ser uma Profissional em Dados
 
